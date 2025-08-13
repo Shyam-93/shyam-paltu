@@ -1,9 +1,0 @@
-#Create a new project
-mkdir snyk-vuln-demo
-cd snyk-vuln-demo
-
-# Create a package.json file
-npm init -y
-
-# Install a known vulnerable version of lodash
-npm install lodash@4.17.15
